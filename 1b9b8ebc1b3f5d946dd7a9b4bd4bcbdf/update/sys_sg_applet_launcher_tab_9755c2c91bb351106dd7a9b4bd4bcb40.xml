@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Vehicle Booking">5755c2c91bb351106dd7a9b4bd4bcb3e</applet_launcher>
+        <icon display_value="File">1b55c2c91bb351106dd7a9b4bd4bcb3d</icon>
+        <label>Vehicle Booking</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 14:06:17</sys_created_on>
+        <sys_id>9755c2c91bb351106dd7a9b4bd4bcb40</sys_id>
+        <sys_name>Vehicle Booking</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_9755c2c91bb351106dd7a9b4bd4bcb40</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>

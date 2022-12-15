@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Vehicle Booking Management search profile">d683c609ae73511000b5753aa6741e6b</profile>
+        <search_source display_value="Vehicle">ab9306491b7351106dd7a9b4bd4bcbfe</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 13:58:39</sys_created_on>
+        <sys_id>a79346491b7351106dd7a9b4bd4bcb00</sys_id>
+        <sys_name>Vehicle Booking Management search profile.Vehicle</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_a79346491b7351106dd7a9b4bd4bcb00</sys_update_name>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

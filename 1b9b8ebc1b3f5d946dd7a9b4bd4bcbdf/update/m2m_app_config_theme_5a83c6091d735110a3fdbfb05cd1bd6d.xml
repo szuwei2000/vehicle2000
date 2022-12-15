@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 13:58:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a83c6091d735110a3fdbfb05cd1bd6d</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>m2m_app_config_theme_5a83c6091d735110a3fdbfb05cd1bd6d</sys_update_name>
+        <theme display_value="Starter Workspace Theme">1e83c60979735110edb1cd130f4bc26c</theme>
+        <ux_app_configuration display_value="Vehicle Booking Management Config">5283c6099d73511097c6e870914fab70</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_919647_vehicle_0.user" name="x_919647_vehicle_0.user">ab9bcebc1b3f5d946dd7a9b4bd4bcb8c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 19:55:07</sys_created_on>
+        <sys_id>2b9bcebc1b3f5d946dd7a9b4bd4bcb8d</sys_id>
+        <sys_name>ab9bcebc1b3f5d946dd7a9b4bd4bcb8c</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2b9bcebc1b3f5d946dd7a9b4bd4bcb8d</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

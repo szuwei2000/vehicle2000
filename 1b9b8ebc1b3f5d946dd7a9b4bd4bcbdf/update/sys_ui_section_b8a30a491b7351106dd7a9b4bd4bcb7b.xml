@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="b8a30a491b7351106dd7a9b4bd4bcb7b" sys_domain="global" table="x_919647_vehicle_0_vehicle_booking_request" version="3" view="Workspace-Vehicle-Booking-Management-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>b8a30a491b7351106dd7a9b4bd4bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>3ca30a491b7351106dd7a9b4bd4bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>bca30a491b7351106dd7a9b4bd4bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>30a30a491b7351106dd7a9b4bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>b0a30a491b7351106dd7a9b4bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_requested</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>34a30a491b7351106dd7a9b4bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>b4a30a491b7351106dd7a9b4bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>38a30a491b7351106dd7a9b4bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>b8a30a491b7351106dd7a9b4bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>3ca30a491b7351106dd7a9b4bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_id>bca30a491b7351106dd7a9b4bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_vehicle_0_vehicle_booking_request" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b8a30a491b7351106dd7a9b4bd4bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_919647_vehicle_0_vehicle_booking_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8a30a491b7351106dd7a9b4bd4bcb7b</sys_id>
+            <sys_name>x_919647_vehicle_0_vehicle_booking_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+            <sys_update_name>sys_ui_section_b8a30a491b7351106dd7a9b4bd4bcb7b</sys_update_name>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Vehicle Booking Management 0" name="Workspace-Vehicle-Booking-Management-0">5283c6096d735110415abda7f46da76a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

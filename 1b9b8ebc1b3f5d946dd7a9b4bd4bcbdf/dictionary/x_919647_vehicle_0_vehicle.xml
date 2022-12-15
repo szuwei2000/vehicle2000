@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4dbf02f41b339d946dd7a9b4bd4bcbb5" label="Vehicle" max_length="40" name="x_919647_vehicle_0_vehicle" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="License Plate Number" max_length="40" name="license_plate_number" type="string"/>
+        <element attributes="encode_utf8=false" label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Make" max_length="40" name="make" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="encode_utf8=false" label="Owner" max_length="32" name="owner" reference="sys_user" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hatchback" sequence="0" value="Hatchback"/>
+                <element inactive_on_update="false" label="Sedan" sequence="0" value="Sedan"/>
+                <element inactive_on_update="false" label="SUV" sequence="0" value="SUV"/>
+                <element inactive_on_update="false" label="Truck" sequence="0" value="Truck"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="owner"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

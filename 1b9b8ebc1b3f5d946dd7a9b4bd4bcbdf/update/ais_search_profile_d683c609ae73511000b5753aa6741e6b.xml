@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Vehicle Booking Management</description>
+        <genius_result_assembly/>
+        <label>Vehicle Booking Management search profile</label>
+        <name>x_919647_vehicle_0_madppmgb_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 13:58:18</sys_created_on>
+        <sys_id>d683c609ae73511000b5753aa6741e6b</sys_id>
+        <sys_name>Vehicle Booking Management search profile</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>ais_search_profile_d683c609ae73511000b5753aa6741e6b</sys_update_name>
+    </ais_search_profile>
+</record_update>

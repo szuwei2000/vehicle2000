@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="38300e8162ff111074e0bb7002ec047b" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_919647_vehicle_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-12-14 13:43:45</sys_created_on>
+            <sys_id>7c300e81d1ff111016f5a467c28c4b7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="f8300e81a3ff1110826bc7b3a7ad307b">38300e8162ff111074e0bb7002ec047b</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:43:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-12-14 13:43:45</sys_created_on>
+            <sys_id>fc300e817cff11100a6c6bd568657b7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="f8300e81a3ff1110826bc7b3a7ad307b">38300e8162ff111074e0bb7002ec047b</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:43:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-12-14 13:43:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38300e8162ff111074e0bb7002ec047b</sys_id>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+            <sys_update_name>sys_ui_section_38300e8162ff111074e0bb7002ec047b</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_919647_vehicle_0)" name="custom_portal_approval_x_919647_vehicle_0">f8300e81a3ff1110826bc7b3a7ad307b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Star">f75546c91bb351106dd7a9b4bd4bcb4b</icon>
+        <item_view/>
+        <name>Vehicle Booking Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 14:06:19</sys_created_on>
+        <sys_id>406546c91bb351106dd7a9b4bd4bcb4e</sys_id>
+        <sys_name>Vehicle Booking Form Screen</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_sg_form_screen_406546c91bb351106dd7a9b4bd4bcb4e</sys_update_name>
+        <table>x_919647_vehicle_0_vehicle_booking_request</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Vehicle Booking Detail Screen View Config">775506c91bb351106dd7a9b4bd4bcb76</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=406546c91bb351106dd7a9b4bd4bcb4e"/>
+</record_update>
