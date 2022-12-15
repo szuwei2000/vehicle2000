@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="My Request - task predicate">f4300e8106ff111061825976a8d7df72</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-14 13:44:02</sys_created_on>
+        <sys_id>78300e816bff11100bbcd1700b732f6f</sys_id>
+        <sys_name/>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_78300e816bff11100bbcd1700b732f6f</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Vehicle Booking Request">2f9306491b7351106dd7a9b4bd4bcb1c</ais_search_source>
+        <label>Vehicle Booking Request</label>
+        <name>Vehicle Booking Request</name>
+        <order>100</order>
+        <search_context_config display_value="Vehicle Booking Management AI Search Configuration">9a83c60910735110f80a37b071c72269</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 13:58:39</sys_created_on>
+        <sys_id>a39306491b7351106dd7a9b4bd4bcbb4</sys_id>
+        <sys_name>Vehicle Booking Request</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_search_filter_a39306491b7351106dd7a9b4bd4bcbb4</sys_update_name>
+    </sys_search_filter>
+</record_update>

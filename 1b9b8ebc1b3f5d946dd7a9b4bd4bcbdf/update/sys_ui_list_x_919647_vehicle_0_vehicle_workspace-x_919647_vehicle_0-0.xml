@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_919647_vehicle_0_vehicle" version="2" view="Workspace-Vehicle-Booking-Management-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_919647_vehicle_0_vehicle" element="NULL" name="x_919647_vehicle_0_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b0a30a491b7351106dd7a9b4bd4bcb25</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:43</sys_created_on>
+            <sys_id>7ca30a491b7351106dd7a9b4bd4bcb26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>license_plate_number</element>
+            <list_id display_value="x_919647_vehicle_0_vehicle" element="NULL" name="x_919647_vehicle_0_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b0a30a491b7351106dd7a9b4bd4bcb25</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:43</sys_created_on>
+            <sys_id>34a30a491b7351106dd7a9b4bd4bcb27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>location</element>
+            <list_id display_value="x_919647_vehicle_0_vehicle" element="NULL" name="x_919647_vehicle_0_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b0a30a491b7351106dd7a9b4bd4bcb25</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:43</sys_created_on>
+            <sys_id>b4a30a491b7351106dd7a9b4bd4bcb27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>make</element>
+            <list_id display_value="x_919647_vehicle_0_vehicle" element="NULL" name="x_919647_vehicle_0_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b0a30a491b7351106dd7a9b4bd4bcb25</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:43</sys_created_on>
+            <sys_id>38a30a491b7351106dd7a9b4bd4bcb27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>model</element>
+            <list_id display_value="x_919647_vehicle_0_vehicle" element="NULL" name="x_919647_vehicle_0_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b0a30a491b7351106dd7a9b4bd4bcb25</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:43</sys_created_on>
+            <sys_id>b8a30a491b7351106dd7a9b4bd4bcb27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owner</element>
+            <list_id display_value="x_919647_vehicle_0_vehicle" element="NULL" name="x_919647_vehicle_0_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b0a30a491b7351106dd7a9b4bd4bcb25</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:43</sys_created_on>
+            <sys_id>3ca30a491b7351106dd7a9b4bd4bcb27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="x_919647_vehicle_0_vehicle" element="NULL" name="x_919647_vehicle_0_vehicle" parent="NULL" relationship="NULL" sys_domain="global" view="5283c6096d735110415abda7f46da76a">b0a30a491b7351106dd7a9b4bd4bcb25</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:43</sys_created_on>
+            <sys_id>bca30a491b7351106dd7a9b4bd4bcb27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 13:58:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_919647_vehicle_0_vehicle</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 13:58:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0a30a491b7351106dd7a9b4bd4bcb25</sys_id>
+            <sys_name>x_919647_vehicle_0_vehicle</sys_name>
+            <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+            <sys_update_name>sys_ui_list_x_919647_vehicle_0_vehicle_Workspace-x_919647_vehicle_0-0</sys_update_name>
+            <sys_user/>
+            <view display_value="Workspace Vehicle Booking Management 0" name="Workspace-Vehicle-Booking-Management-0">5283c6096d735110415abda7f46da76a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

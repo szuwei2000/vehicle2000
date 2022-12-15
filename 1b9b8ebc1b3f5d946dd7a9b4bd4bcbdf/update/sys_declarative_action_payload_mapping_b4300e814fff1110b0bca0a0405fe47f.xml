@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Reject">fc300e81e7ff11101576fe7e1ae7297f</action_payload_definition>
+        <label>Reject Evam</label>
+        <model display_value="Evam">035d270073151010c342d5fdbdf6a715</model>
+        <payload_map>table={{table}}^sysId={{sys_id}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-14 13:43:58</sys_created_on>
+        <sys_id>b4300e814fff1110b0bca0a0405fe47f</sys_id>
+        <sys_name>Reject Evam</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_b4300e814fff1110b0bca0a0405fe47f</sys_update_name>
+    </sys_declarative_action_payload_mapping>
+</record_update>

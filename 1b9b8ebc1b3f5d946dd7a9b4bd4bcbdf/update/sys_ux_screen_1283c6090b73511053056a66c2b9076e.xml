@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Vehicle Booking Management Config">5283c6099d73511097c6e870914fab70</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Visualization Designer">2d5dcc29c3110110d938e4788940dd8f</macroponent>
+        <macroponent_config>{
+  "sysid" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "headingOnlyVisibleToScreenReaders" : false,
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Visualization Designer default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Visualization Designer">1a83c60924735110f517524bf0fbcf6f</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 13:58:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1283c6090b73511053056a66c2b9076e</sys_id>
+        <sys_name>Visualization Designer default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_ux_screen_1283c6090b73511053056a66c2b9076e</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1283c6090b73511053056a66c2b9076e"/>
+</record_update>

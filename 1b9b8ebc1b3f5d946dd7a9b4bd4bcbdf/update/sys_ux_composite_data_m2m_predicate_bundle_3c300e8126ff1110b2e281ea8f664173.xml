@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">f0300e81a0ff11105a0a247dc441ef75</dataset>
+        <order/>
+        <predicate_bundle display_value="My requests - reqested item bundle">30300e8152ff1110a84ec6a5d95d5a74</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-14 13:44:03</sys_created_on>
+        <sys_id>3c300e8126ff1110b2e281ea8f664173</sys_id>
+        <sys_name/>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_3c300e8126ff1110b2e281ea8f664173</sys_update_name>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

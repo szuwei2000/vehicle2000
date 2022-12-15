@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Vehicle Booking Management Config">5283c6099d73511097c6e870914fab70</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table</fields>
+        <icon/>
+        <name>Simple List</name>
+        <optional_parameters>listTitle,query,disableInlineEditing</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>simplelist</route_type>
+        <screen_type display_value="Simple List">9683c6092c735110fb1f84206a1c916f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 13:58:19</sys_created_on>
+        <sys_id>d283c6092b735110d60e7653cf18ca6e</sys_id>
+        <sys_name>Simple List</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_ux_app_route_d283c6092b735110d60e7653cf18ca6e</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d283c6092b735110d60e7653cf18ca6e"/>
+</record_update>

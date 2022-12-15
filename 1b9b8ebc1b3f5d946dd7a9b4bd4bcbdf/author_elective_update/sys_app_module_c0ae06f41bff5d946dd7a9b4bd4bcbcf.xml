@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Vehicle 0 1670962093101</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_919647_vehicle_0_1670962093101</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 20:08:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c0ae06f41bff5d946dd7a9b4bd4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle 0 1670962093101</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_app_module_c0ae06f41bff5d946dd7a9b4bd4bcbcf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-13 20:08:16</sys_updated_on>
+        <timeline_page/>
+        <title>Vehicle 0 1670962093101</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</application>
+        <file_path/>
+        <instance_id>7607f87cdb8c3f402f68c5970596190f</instance_id>
+        <instance_name>dev74509</instance_name>
+        <name>sys_app_module_c0ae06f41bff5d946dd7a9b4bd4bcbcf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Vehicle 0 1670962093101</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_919647_vehicle_0_1670962093101</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-13 20:08:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c0ae06f41bff5d946dd7a9b4bd4bcbcf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vehicle 0 1670962093101</sys_name><sys_overrides/><sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package><sys_policy/><sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope><sys_update_name>sys_app_module_c0ae06f41bff5d946dd7a9b4bd4bcbcf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-13 20:08:16</sys_updated_on><timeline_page/><title>Vehicle 0 1670962093101</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>366985105</payload_hash>
+        <record_name>Vehicle 0 1670962093101</record_name>
+        <reverted_from/>
+        <source>1f9b8ebc1b3f5d946dd7a9b4bd4bcbe1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 20:08:16</sys_created_on>
+        <sys_id>80ae06f41bff5d946dd7a9b4bd4bcbd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1850d1a292c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-13 20:08:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c8ae06f4aeff5d94a1ed39721ad1d5d1</update_guid>
+        <update_guid_history>c8ae06f4aeff5d94a1ed39721ad1d5d1:366985105</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vehicle 0 1670962093101">d3bf4af41b339d946dd7a9b4bd4bcb2b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 20:13:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>055e435c057a43d082b764d3fef6e9d9</sys_id>
+        <sys_metadata>c0ae06f41bff5d946dd7a9b4bd4bcbcf</sys_metadata>
+        <sys_name>Vehicle 0 1670962093101</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_scope_delete display_value="">17a3f34733524be8a6d4b0ff3ff409a4</sys_scope_delete>
+        <sys_update_name>sys_app_module_c0ae06f41bff5d946dd7a9b4bd4bcbcf</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c0ae06f41bff5d946dd7a9b4bd4bcbcf">80ae06f41bff5d946dd7a9b4bd4bcbd2</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

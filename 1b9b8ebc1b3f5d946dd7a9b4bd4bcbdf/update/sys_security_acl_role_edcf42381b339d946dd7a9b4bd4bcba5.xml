@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 20:13:17</sys_created_on>
+        <sys_id>edcf42381b339d946dd7a9b4bd4bcba5</sys_id>
+        <sys_name>x_919647_vehicle_0_vehicle.x_919647_vehicle_0.user</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_security_acl display_value="x_919647_vehicle_0_vehicle">adcf42381b339d946dd7a9b4bd4bcba3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_edcf42381b339d946dd7a9b4bd4bcba5</sys_update_name>
+        <sys_user_role display_value="x_919647_vehicle_0.user" name="x_919647_vehicle_0.user">ab9bcebc1b3f5d946dd7a9b4bd4bcb8c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

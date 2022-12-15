@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="INSERT_OR_UPDATE">
+        <created_by_user display_value="Szu-Wei Chao">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_on>2022-05-29 16:29:20</created_on>
+        <dashboard display_value="Vehicle Booking Management">1283c609fb7351105fa826e950b6cf6c</dashboard>
+        <last_updated_on>2022-05-29 16:56:20</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 13:58:19</sys_created_on>
+        <sys_id>de83c60975735110797d9d767a2f9e6f</sys_id>
+        <sys_name/>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_de83c60975735110797d9d767a2f9e6f</sys_update_name>
+        <updated_by_user display_value="Szu-Wei Chao">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+    </par_dashboard_user_metadata>
+</record_update>

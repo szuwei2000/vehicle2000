@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Vehicle Booking Portal Config">e7208a811bff11106dd7a9b4bd4bcbf4</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Additional Details</name>
+        <optional_parameters/>
+        <order>200</order>
+        <parent_macroponent display_value="Record Page(task)">f8300e8106ff1110f77af0be9373eb7a</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_additional</route_type>
+        <screen_type display_value="Additional Details">bc300e8109ff1110d953c7644f4f3477</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-14 13:43:57</sys_created_on>
+        <sys_id>30300e81c3ff1110e28e2550488c1378</sys_id>
+        <sys_name>Additional Details</sys_name>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_ux_app_route_30300e81c3ff1110e28e2550488c1378</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=30300e81c3ff1110e28e2550488c1378"/>
+</record_update>

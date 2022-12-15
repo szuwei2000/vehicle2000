@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app vehicle-booking-management">84930e091b7351106dd7a9b4bd4bcb29</applicability>
+        <list display_value="Open">68938e091b7351106dd7a9b4bd4bcb07</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 13:58:26</sys_created_on>
+        <sys_id>28938e091b7351106dd7a9b4bd4bcb09</sys_id>
+        <sys_name/>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_28938e091b7351106dd7a9b4bd4bcb09</sys_update_name>
+    </sys_ux_applicability_m2m_list>
+</record_update>

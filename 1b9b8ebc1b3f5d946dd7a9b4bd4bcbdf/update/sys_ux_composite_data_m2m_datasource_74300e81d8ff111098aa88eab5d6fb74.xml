@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">f0300e81a0ff11105a0a247dc441ef75</dataset>
+        <datasource display_value="My Request - Incident datasource">b4300e81b7ff111058dfc39e185a0774</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-14 13:44:04</sys_created_on>
+        <sys_id>74300e81d8ff111098aa88eab5d6fb74</sys_id>
+        <sys_name/>
+        <sys_package display_value="Vehicle Booking Request" source="x_919647_vehicle_0">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vehicle Booking Request">1b9b8ebc1b3f5d946dd7a9b4bd4bcbdf</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_74300e81d8ff111098aa88eab5d6fb74</sys_update_name>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>
